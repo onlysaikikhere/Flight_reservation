@@ -1,2 +1,3 @@
-# Flight_reservation
-Flight reservation system 
+# Flight_reservation_system
+This project is a Flight Reservation System implemented in C. It allows users to manage flight and passenger data efficiently, enabling the booking and tracking of flights. The system uses two main structures: FlightInfo to store details such as the flight number, origin, destination, capacity, and seat availability, and PassengerInfo to record the passenger’s name, age, gender, contact information, and assigned seat. The project includes functionalities for booking a flight, assigning seats, and maintaining a real-time record of available seats. It’s designed to simulate an airline’s booking system, offering users the ability to check flight details and manage bookings in a simplified, text-based environment.
+
